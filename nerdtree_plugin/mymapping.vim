@@ -1,4 +1,4 @@
-
+" s will open a terminal
 call NERDTreeAddKeyMap({
 	   \ 'key': 's',
 	   \ 'callback': 'NERDTreeOpenTerm',
